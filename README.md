@@ -26,13 +26,10 @@ Total Revenue = SUM('housing_sales'[Ticket_Price_Cr])
 Conversion Rate = DIVIDE([Total Bookings], [Total Projects], 0)
 
 Python
-
 Data cleaning with Pandas/NumPy Feature engineering ETL pipeline development
 
 SQL
-
 Database design & optimization Complex query writing Data validation & integrity
 
 Power BI
-
 DAX measures & calculated columns Interactive dashboard design Data storytelling & visualization
